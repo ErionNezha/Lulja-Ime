@@ -1,5 +1,7 @@
 # 🌹 Lulja ime
 
+Created by **Erion Nezha**
+
 
 **Live demo:** https://erionnezha.github.io/Lulja-Ime/
 
@@ -29,10 +31,6 @@ Një kopsht nate premium me lule që çelin — i ndërtuar me CSS të pastër, 
 HTML5 · CSS3 (animacione) · JavaScript (vanilla)
 
 
-## 🙏 Mirënjohje
-
-
-Mekanika e çeljes së luleve bazohet në pen-in **"pure css blooming flowers with falling leaves"** nga [mdusmanansari](https://codepen.io/mdusmanansari/pen/bGYrmjY) (CodePen) — i ripërpunuar tërësisht në temën premium "Lulja ime" nga Erion Nezha.
 
 
 ## 📄 Licenca
@@ -45,6 +43,8 @@ Mekanika e çeljes së luleve bazohet në pen-in **"pure css blooming flowers wi
 
 
 # 🌹 Lulja ime (My Flower)
+
+Created by **Erion Nezha**
 
 
 **Live demo:** https://erionnezha.github.io/Lulja-Ime/
@@ -75,10 +75,6 @@ A premium night-garden with blooming flowers — built with pure CSS, a gold-on-
 HTML5 · CSS3 (animations) · JavaScript (vanilla)
 
 
-## 🙏 Credits
-
-
-The flower-blooming mechanics are based on the pen **"pure css blooming flowers with falling leaves"** by [mdusmanansari](https://codepen.io/mdusmanansari/pen/bGYrmjY) (CodePen) — fully restyled into the premium "Lulja ime" theme by Erion Nezha.
 
 
 ## 📄 License
